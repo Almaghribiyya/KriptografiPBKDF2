@@ -7,10 +7,6 @@
 ## 🌟 Overview
 A secure implementation of PBKDF2 (Password-Based Key Derivation Function 2) algorithm with a user-friendly web interface built using Streamlit. This application provides encryption and decryption capabilities using PBKDF2 for key derivation, making password-based encryption more secure through the use of salt and multiple iterations.
 
-## 🎥 Screenshots
-
-![Screenshot 2025-06-17 190641](https://github.com/user-attachments/assets/919f80b8-bd65-477c-b893-7a83c9fe2839)
-![Screenshot 2025-06-17 190653](https://github.com/user-attachments/assets/ef8d95a1-b410-4115-8e49-3162cff8daa3)
 
 ## ✨ Features
 
@@ -68,5 +64,7 @@ Mahira Afifa Mulia (2210511071)
 Muhammad Rezka Al Maghribi (2210511086)
 
 ### This project is part of the Cryptography course final project at our university.
+
+## 🔐 Links https://kriptografipbkdf2-pnyynvkp4jedvek8ucgrd3.streamlit.app/
 
 ## Built with 🔐 by Muhammad Rezka Al Maghribi
