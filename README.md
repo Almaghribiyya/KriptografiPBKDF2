@@ -63,8 +63,6 @@ Mahira Afifa Mulia (2210511071)
 
 Muhammad Rezka Al Maghribi (2210511086)
 
-### This project is part of the Cryptography course final project at our university.
-
 ## 🔐 Links https://kriptografipbkdf2-pnyynvkp4jedvek8ucgrd3.streamlit.app/
 
 ## Built with 🔐 by Muhammad Rezka Al Maghribi
