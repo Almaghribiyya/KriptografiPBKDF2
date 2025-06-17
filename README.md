@@ -1,20 +1,20 @@
-🔐 Password-Based Key Derivation Function 2 (PBKDF2) Implementation
+# 🔐 Password-Based Key Derivation Function 2 (PBKDF2) Implementation
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> <img alt="Cryptography" src="https://img.shields.io/badge/Cryptography-000000?style=for-the-badge&logo=encrypted&logoColor=white">
 
-🌟 Overview
+## 🌟 Overview
 A secure implementation of PBKDF2 (Password-Based Key Derivation Function 2) algorithm with a user-friendly web interface built using Streamlit. This application provides encryption and decryption capabilities using PBKDF2 for key derivation, making password-based encryption more secure through the use of salt and multiple iterations.
 
-🎥 Screenshots
+## 🎥 Screenshots
 
 ![Screenshot 2025-06-17 190641](https://github.com/user-attachments/assets/919f80b8-bd65-477c-b893-7a83c9fe2839)
 ![Screenshot 2025-06-17 190653](https://github.com/user-attachments/assets/ef8d95a1-b410-4115-8e49-3162cff8daa3)
 
-✨ Features
+## ✨ Features
 
-🔒 Security Features
+### 🔒 Security Features
 
 - PBKDF2 implementation with SHA-256
 - Random salt generation
@@ -22,13 +22,13 @@ A secure implementation of PBKDF2 (Password-Based Key Derivation Function 2) alg
 - Secure key derivation
 - Password confirmation
 
-💻 User Interface
+### 💻 User Interface
 
 - Encryption/Decryption options
 - Password input validation
 - Visual feedback with lock icons
 
-🔄 Functionality
+### 🔄 Functionality
 
 - Text encryption
 - Text decryption
@@ -36,23 +36,26 @@ A secure implementation of PBKDF2 (Password-Based Key Derivation Function 2) alg
 - UTF-8 encoding support
   
 
-🚀 Usage
+### 🚀 Usage
 
 - Launch the application
-- 
+
 - Choose between Encryption or Decryption
   
-- For Encryption:
+#### For Encryption:
+
 1. Enter the plaintext
+  
 2. Input and confirm password
+ 
 3. Click "Encrypt" button
  
-- For Decryption:
+#### For Decryption:
 1. Enter the ciphertext
 2. Input the correct password
 3. Click "Decrypt" button
    
-👥 Team Members
+## 👥 Team Members
 
 Moza Rizki Ilahi (2210511048)
 
@@ -64,7 +67,6 @@ Mahira Afifa Mulia (2210511071)
 
 Muhammad Rezka Al Maghribi (2210511086)
 
-📝 License
-This project is part of the Cryptography course final project at our university.
+### This project is part of the Cryptography course final project at our university.
 
-Built with 🔐 by Muhammad Rezka Al Maghribi
+## Built with 🔐 by Muhammad Rezka Al Maghribi
